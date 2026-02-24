@@ -1,5 +1,5 @@
 ### SETUP
-install uv or create a venv
+install uv
 https://docs.astral.sh/uv/getting-started/installation/#__tabbed_1_2
 ```
 uv venv --python 3.12
