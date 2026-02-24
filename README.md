@@ -1,6 +1,7 @@
 ### SETUP
 install uv
 https://docs.astral.sh/uv/getting-started/installation/#__tabbed_1_2
+run this in root
 ```
 uv venv --python 3.12
 uv pip install -r requirements.txt
